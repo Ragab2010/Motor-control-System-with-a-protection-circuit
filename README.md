@@ -23,7 +23,6 @@ I need to be able to transmit 123 value to control pwm
 (3)Make sure proper formatting of Json based on clients requirement and what my colleagues are using to test the JSON 
 
 
-(4)Ask him write a short circuit protection code to check for short circuit 
+(4)write a short circuit protection code to check for short circuit 
 -Show the circuit protection to test it and discuss what the short circuit is suppose to do 
 
- 1-3 are priorities that must be done and incorporated by toda
