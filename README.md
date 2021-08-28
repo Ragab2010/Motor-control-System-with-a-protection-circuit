@@ -1,4 +1,4 @@
-# controlling-motors-by-PWM-received-by-UART-with-JSON-format-and-extract-MFC-to-generate-the-duty-cyc
+# controlling-motors-by-PWM-received-by-UART-with-JSON-format-and-extract-MFC-to-generate-the-duty-cycle
 
 -----------------------------------------------------------------------------------------------------------
 
